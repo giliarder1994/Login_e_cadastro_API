@@ -54,7 +54,8 @@ src/
 ### 1. Clone o repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/api-autenticacao-typescript.git](https://github.com/seu-usuario/api-autenticacao-typescript.git)
+git clone https://github.com/seu-usuario/api-autenticacao-typescript.git
+
 cd api-autenticacao-typescript
 
 ```
