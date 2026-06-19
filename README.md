@@ -135,8 +135,3 @@ O sistema foi organizado em camadas para facilitar a manutenção e focar no apr
 ## 👨‍💻 Autor
 
 Desenvolvido por **Giliarde Rodrigues**
-
-```
-
-
-```
