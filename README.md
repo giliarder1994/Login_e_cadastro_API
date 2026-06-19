@@ -1,5 +1,3 @@
-
-```markdown
 # 🔐 Cadastro e Login - API
 
 API REST para cadastro e login de usuários desenvolvida do zero com Node.js, Express e TypeScript. O projeto foi estruturado para praticar conceitos de arquitetura em camadas, tipagem estática e segurança na manipulação de dados sensíveis utilizando JWT e criptografia de senhas.
